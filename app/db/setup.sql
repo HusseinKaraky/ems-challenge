@@ -5,14 +5,7 @@ DROP TABLE IF EXISTS timesheets;
 
 -- To add a field to a table do
 -- CREATE TABLE table_name (
---     id INTEGER PRIMARY KEY AUTOINCREMENT,
---     nullable_field TEXT,
---     non_nullable_field TEXT NOT NULL,
---     numeric_field INTEGER,
---     unique_field TEXT UNIQUE,
---     unique_non_nullable_field TEXT NOT NULL UNIQUE,
---     date_field DATE,
---     datetime_field DATETIME
+--     
 -- );
 
 -- Create employees table
